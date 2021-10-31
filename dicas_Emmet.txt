@@ -1,0 +1,9 @@
+ - Dicas do Emmet -
+
+ >  Comando que indica o filho de um elemento, ou seja, o elemento que será criado dentro do elemento pai:
+ Pai > filho  
+
+ +  Comando que indica irmãos de um mesmo pai:  Pai>Filho+Filho
+
+ *  Operador de multiplicação. multiplica elementos: El*3 é o mesmo que: El+El+El
+
